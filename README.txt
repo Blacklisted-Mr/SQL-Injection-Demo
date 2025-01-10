@@ -18,5 +18,8 @@ This project demonstrates how SQL injection vulnerabilities occur and how they c
 5. Access the demo in your browser at http://localhost/sql-injection-demo/
 6. Try ' OR 1=1# as such in place of username to login without password.
 
+Solution for this ? 
+Ans. Prepared Statements
+
 ## Disclaimer
 This project is for educational purposes only. Do not use this code in production or for illegal activities. Use it responsibly.
